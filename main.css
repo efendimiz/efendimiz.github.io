@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+body > header {
+	display: flex;
+	justify-content: center;
+}
+
+#pirimiz {
+	font: bold extra-condensed 20pt "Trebuchet MS", sans-serif;
+	text-align: center;
+}
